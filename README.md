@@ -1,7 +1,5 @@
 README.md
-# Learn Academy First Repo
 
-# New Update
 <h1> Hi I'm Stevie mitchell, I'm working hard to become a fullstack developer. </h1>
  This is my README.md!
 <br> </br>
