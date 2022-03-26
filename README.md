@@ -11,8 +11,8 @@ My Learning is taking place so please bear with my development on this Github pa
   
   <br> </br>
 
-<p> Thank you for visiting my page, feel free to contact me at developing.stevie@gmail.com.
- Even reach out to me on Linkedin https://www.linkedin.com/in/stevie-mitchell-8a6900235/ </p>
+<p> Thank you for visiting my page, feel free to contact me at developing.stevie@gmail.com. </p>
+<p> Even reach out to me on Linkedin https://www.linkedin.com/in/stevie-mitchell-8a6900235/ </p>
 
 <br> </br>
 
