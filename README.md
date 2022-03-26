@@ -3,7 +3,7 @@ README.md
 
 # New Update
 <h1> Hi I'm Stevie mitchell, I'm working hard to become a fullstack developer. </h1>
-<h3> This is my README.md!</h3>
+ This is my README.md!
 <br> </br>
 <br> </br>
 
@@ -15,11 +15,11 @@ My Learning is taking place so please bear with my development on this Github pa
   <br> </br>
 <br> </br>
 
-<h1> Thank you for visiting my page, feel free to contact me at developing.stevie@gmail.com. </h1>
+<p> Thank you for visiting my page, feel free to contact me at developing.stevie@gmail.com. </p>
   
   <br> </br>
 <br> </br>
 
-<h2> Even reach out to me on Linkedin https://www.linkedin.com/in/stevie-mitchell-8a6900235/ </h2>
+<p> Even reach out to me on Linkedin https://www.linkedin.com/in/stevie-mitchell-8a6900235/ </p>
 
 <footer> - developing_stevie </footer>
